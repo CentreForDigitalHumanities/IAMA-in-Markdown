@@ -8,7 +8,7 @@ Het originele IAMA en bijbehorende toelichting zijn te vinden op de website van 
 
 Deze documenten zijn in PDF-format. 
 
-Op deze pagina wordt een alternatief format van het IAMA aangeboden: het IAMA in Markdown-format. 
+Op deze pagina wordt een alternatief format van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-format</a>. 
 
 ### Waarom Markdown?
 
