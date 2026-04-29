@@ -1,4 +1,4 @@
-Het IAMA is ontwikkeld door Universiteit Utrecht in opdracht van het Ministerie van Binnenlandse Zaken. De auteurs zijn Prof. mr. Janneke Gerards, Iris Muis, Julia Straatman, Arthur  Vankan en Max Boiten.
+Het Impact Assessment Mensenrechten en Algoritme (IAMA) is ontwikkeld door Universiteit Utrecht in opdracht van het Ministerie van Binnenlandse Zaken. De auteurs zijn Prof. mr. Janneke Gerards, Iris Muis, Julia Straatman, Arthur  Vankan en Max Boiten.
 
 <a href="https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes" target="_blank"><img src="docs/img/iama-februari-2026.png"></a>
 
@@ -8,6 +8,8 @@ Het originele IAMA en bijbehorende toelichting zijn te vinden op de website van 
 
 Deze documenten zijn in PDF-format. 
 
+## IAMA in Markdown
+
 Op deze pagina wordt een alternatief format van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-format</a>. 
 
 ### Waarom Markdown?
@@ -16,7 +18,7 @@ Dit bestand is platte tekst (Markdown) en dus machine‑leesbaar. Dat maakt het 
 - versiebeheer, herleidbaar samenwerken en reviewen;
 - automatische bevraging of vergelijking met documentatie of code.
 
-### Hoe deze Markdown-versie is gemaakt en gecontroleerd?
+### Hoe is deze Markdown-versie gemaakt en gecontroleerd?
 
 Medewerkers van de Autoriteit Consument & Markt (ACM) hebben het originele PDF‑bestand omgezet naar Markdown en gedeeld met de auteurs van het IAMA van de Universiteit Utrecht.
 
