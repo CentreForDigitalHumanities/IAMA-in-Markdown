@@ -22,15 +22,14 @@ Dit bestand is platte tekst (Markdown) en dus machine‑leesbaar. Dat maakt het 
 
 Medewerkers van de Autoriteit Consument & Markt (ACM) hebben het originele PDF‑bestand omgezet naar Markdown en gedeeld met de auteurs van het IAMA van de Universiteit Utrecht.
 
-- Autoriteit Consument & Markt
-  - PDF omgezet naar Markdown met twee methoden (Python‑package en taalmodel); uitkomsten vergeleken.
-  - Handmatig gecorrigeerd: tekststructuur (volgorde vragen, stroomschema, voorpagina) en weergave in Markdown (blockquote ">" voor toelichtingen).
-  - Deze toelichting toegevoegd.
-    > Contact: [acm-post@acm.nl](mailto:acm-post@acm.nl?subject=Contact%20over%20Markdown-versie%20van%20Impact%20Assessment%20Mensenrechten%20en%20Algoritmes). Vermeld: "Markdown‑versie van Impact Assessment Mensenrechten en Algoritmes".
-- Universiteit Utrecht
-  - Review van het Markdown‑document.
+#### Autoriteit Consument & Markt
+- PDF omgezet naar Markdown met twee methoden (Python‑package en taalmodel); uitkomsten vergeleken.
+- Handmatig gecorrigeerd: tekststructuur (volgorde vragen, stroomschema, voorpagina) en weergave in Markdown (blockquote ">" voor toelichtingen).
+- Deze toelichting toegevoegd.
+  > Contact: [acm-post@acm.nl](mailto:acm-post@acm.nl?subject=Contact%20over%20Markdown-versie%20van%20Impact%20Assessment%20Mensenrechten%20en%20Algoritmes). Vermeld: "Markdown‑versie van Impact Assessment Mensenrechten en Algoritmes".
 
-Fout gevonden? Meld dit bij de auteurs van het IAMA.
+#### Universiteit Utrecht
+- Review van het Markdown‑document.
 
 ## Licentie & credits
 
