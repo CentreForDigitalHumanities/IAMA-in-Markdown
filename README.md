@@ -10,7 +10,7 @@ Dit bestand is platte tekst (Markdown) en dus machine‑leesbaar. Dat maakt het 
 
 ## Hoe is deze Markdown-versie gemaakt en gecontroleerd?
 
-Medewerkers van de Autoriteit Consument & Markt (ACM) hebben het originele PDF‑bestand omgezet naar Markdown en gedeeld met de auteurs van het IAMA van de Universiteit Utrecht.
+Medewerkers van de [Autoriteit Consument & Markt (ACM)](https://github.com/autoriteitcm) hebben het originele PDF‑bestand omgezet naar Markdown en gedeeld met de auteurs van het IAMA van de Universiteit Utrecht.
 
 ### Autoriteit Consument & Markt
 - PDF omgezet naar Markdown met twee methoden (Python‑package en taalmodel); uitkomsten vergeleken.
