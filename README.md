@@ -1,24 +1,24 @@
-## IAMA in Markdown
+# IAMA in Markdown
 
 Op deze pagina wordt een alternatief format van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-formaat</a>. 
 
-### Waarom Markdown?
+## Waarom Markdown?
 
 Dit bestand is platte tekst (Markdown) en dus machine‑leesbaar. Dat maakt het geschikt voor:
 - versiebeheer, herleidbaar samenwerken en reviewen;
 - automatische bevraging of vergelijking met documentatie of code.
 
-### Hoe is deze Markdown-versie gemaakt en gecontroleerd?
+## Hoe is deze Markdown-versie gemaakt en gecontroleerd?
 
 Medewerkers van de Autoriteit Consument & Markt (ACM) hebben het originele PDF‑bestand omgezet naar Markdown en gedeeld met de auteurs van het IAMA van de Universiteit Utrecht.
 
-#### Autoriteit Consument & Markt
+### Autoriteit Consument & Markt
 - PDF omgezet naar Markdown met twee methoden (Python‑package en taalmodel); uitkomsten vergeleken.
 - Handmatig gecorrigeerd: tekststructuur (volgorde vragen, stroomschema, voorpagina) en weergave in Markdown (blockquote ">" voor toelichtingen).
 - Deze toelichting toegevoegd.
   > Contact: [acm-post@acm.nl](mailto:acm-post@acm.nl?subject=Contact%20over%20Markdown-versie%20van%20Impact%20Assessment%20Mensenrechten%20en%20Algoritmes). Vermeld: "Markdown‑versie van Impact Assessment Mensenrechten en Algoritmes".
 
-#### Universiteit Utrecht
+### Universiteit Utrecht
 - Review van het Markdown‑document.
 
 ## Impact Assessment Mensenrechten en Algoritme (IAMA) 
