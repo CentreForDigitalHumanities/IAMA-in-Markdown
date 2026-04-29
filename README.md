@@ -1,16 +1,6 @@
-Het Impact Assessment Mensenrechten en Algoritme (IAMA) is ontwikkeld door Universiteit Utrecht in opdracht van het Ministerie van Binnenlandse Zaken. De auteurs zijn Prof. mr. Janneke Gerards, Iris Muis, Julia Straatman, Arthur  Vankan en Max Boiten.
-
-<a href="https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes" target="_blank"><img src="docs/img/iama-februari-2026.png"></a>
-
-Het originele IAMA en bijbehorende toelichting zijn te vinden op de website van de Rijksoverheid:
-
-[https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
-
-Deze documenten zijn in PDF-format. 
-
 ## IAMA in Markdown
 
-Op deze pagina wordt een alternatief format van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-format</a>. 
+Op deze pagina wordt een alternatief format van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-formaat</a>. 
 
 ### Waarom Markdown?
 
@@ -30,6 +20,16 @@ Medewerkers van de Autoriteit Consument & Markt (ACM) hebben het originele PDFâ€
 
 #### Universiteit Utrecht
 - Review van het Markdownâ€‘document.
+
+## Impact Assessment Mensenrechten en Algoritme (IAMA) 
+
+Het IAMA is ontwikkeld door Universiteit Utrecht in opdracht van het Ministerie van Binnenlandse Zaken. De auteurs zijn Prof. mr. Janneke Gerards, Iris Muis, Julia Straatman, Arthur  Vankan en Max Boiten.
+
+Het originele IAMA en bijbehorende toelichting zijn (in PDF-formaat) te vinden op de website van de Rijksoverheid:
+
+[https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
+
+<a href="https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes" target="_blank"><img src="docs/img/iama-februari-2026.png"></a>
 
 ## Licentie & credits
 
