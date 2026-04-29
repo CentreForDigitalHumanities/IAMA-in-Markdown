@@ -1,5 +1,7 @@
 Het IAMA is ontwikkeld door Universiteit Utrecht in opdracht van het Ministerie van Binnenlandse Zaken. De auteurs zijn Prof. mr. Janneke Gerards, Iris Muis, Julia Straatman, Arthur  Vankan en Max Boiten.
 
+<a href="https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes" target="_blank"><img src="docs/img/iama-februari-2026.png" width="400px"></a>
+
 Het originele IAMA en bijbehorende toelichting zijn te vinden op de website van de Rijksoverheid:
 
 [https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes](https://www.rijksoverheid.nl/documenten/rapporten/2026/02/16/impact-assessment-mensenrechten-en-algoritmes)
