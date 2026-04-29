@@ -36,6 +36,10 @@ Fout gevonden? Meld dit bij de auteurs van het IAMA.
 
 ## Licentie & credits
 
-Het Ministerie van Binnenlandse Zaken is eigenaar van het IAMA. Het mag worden gebruikt voor zowel non-commerciële als commerciële doeleinden. De Markdown-versie die op deze pagina wordt aangeboden is een afgeleide hiervan, omgezet door ACM i.s.m. Data School, Universiteit Utrecht. Het is geen officiële IAMA-versie. Mocht je fouten in het Markdown-bestand ontdekken, laat het ons weten via dataschool@uu.nl.
+Het Ministerie van Binnenlandse Zaken is eigenaar van het IAMA. Het mag worden gebruikt voor zowel non-commerciële als commerciële doeleinden. 
+
+De Markdown-versie die op deze pagina wordt aangeboden is een afgeleide hiervan, omgezet door ACM i.s.m. Data School, Universiteit Utrecht. Het is geen officiële IAMA-versie. 
+
+Mocht je fouten in het Markdown-bestand ontdekken, laat het ons weten via dataschool@uu.nl.
 
 <a href="https://dataschool.nl" target="_blank"><img src="docs/img/UU_Data School_logo_NL_geelwit.jpg" width="400px"></a>
