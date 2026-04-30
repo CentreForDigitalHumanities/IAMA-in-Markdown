@@ -1,12 +1,12 @@
 # IAMA in Markdown
 
-Op deze pagina wordt een alternatief format van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-formaat</a>. 
+Op deze pagina wordt een alternatief formaat van het IAMA aangeboden: <a href="https://github.com/CentreForDigitalHumanities/IAMA-in-Markdown/blob/main/docs/impact-assessment-mensenrechten-en-algoritmes-versie-2.md" target="_blank">het IAMA in Markdown-formaat</a>. 
 
 ## Waarom Markdown?
 
 Dit bestand is platte tekst (Markdown) en dus machine‑leesbaar. Dat maakt het geschikt voor:
-- versiebeheer, herleidbaar samenwerken en reviewen;
-- automatische bevraging of vergelijking met documentatie of code.
+- Versiebeheer, herleidbaar samenwerken en reviewen;
+- Automatische bevraging of vergelijking met documentatie of code.
 
 ## Hoe is deze Markdown-versie gemaakt en gecontroleerd?
 
